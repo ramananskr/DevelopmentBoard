@@ -1,2 +1,2 @@
-Change function name a to add
-add a new function for sub
+Change function name a to add - done
+add a new function for sub - done

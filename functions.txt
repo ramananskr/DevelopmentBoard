@@ -1,4 +1,9 @@
-****Function a*****
+****Function add*****
 function a {
 asdasd;
+}
+
+****Function sub*****
+function a {
+subtract;
 }
