@@ -1,9 +1,12 @@
 ****Function add*****
-function a {
-asdasd;
+****Add operation implementation added
+function int add(int a, int b) {
+	return a + b;
 }
 
+
 ****Function sub*****
-function a {
-subtract;
+****sub operation implementation added
+function int sub (int a, int b) {
+	return a - b;
 }
