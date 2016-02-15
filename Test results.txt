@@ -1,4 +1,4 @@
 Change function name a to add - done
 add a new function for sub - done
-dev to add the implementaion for add/sub functions
+dev to add the implementaion for add/sub functions - done
 dev1 to add a new functions for mul/div functions - done
