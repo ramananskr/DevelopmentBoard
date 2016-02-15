@@ -1,0 +1,2 @@
+Change function name a to add
+add a new function for sub
