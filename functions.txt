@@ -1,0 +1,4 @@
+****Function a*****
+function a {
+asdasd;
+}
