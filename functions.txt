@@ -10,3 +10,13 @@ function int add(int a, int b) {
 function int sub (int a, int b) {
 	return a - b;
 }
+
+****Function mul*****
+function int mul(int a, int b) {
+	return a * b;
+}
+
+****Function div*****
+function int div(int a, int b) {
+	return a / b;
+}
